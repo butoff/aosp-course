@@ -1,1 +1,1 @@
-docker run -it --rm -v ~/aosp:/aosp aosp-course
+docker run -it --rm -v ~/grapheneos:/src grapheneos

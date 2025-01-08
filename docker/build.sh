@@ -1,4 +1,4 @@
-IMAGE=aosp-course
+IMAGE=grapheneos
 
 usage()
 {
